@@ -1,0 +1,8 @@
+flashgpt3/results/**/*
+*.txt
+flashgpt3/bin
+flashgpt3/cache
+flashgpt3/obj
+.vs
+!flashgpt3/cache/default.json
+!flashgpt3/cache/toi.json
