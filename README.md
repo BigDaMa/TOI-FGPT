@@ -1,6 +1,6 @@
-# TOI-FGPT
+# NST-FGPT
 
-This solution is developed based on [FlashGPT3](https://doi.org/10.5281/zenodo.5504362)[1] proposed by Microsoft. OpenAI API token and Ollama are required to run the experiments. `flashgpt3/cache/default.json` and `flashgpt3/cache/toi.json` are cache files for queries and TOIs, respectively. Delete `flashgpt3/cache/default.json` to obtain new query results. Delete `flashgpt3/cache/toi.json` and set TOILearning = true to obtain new TOIs.
+This solution is developed based on [FlashGPT3](https://doi.org/10.5281/zenodo.5504362)[1] proposed by Microsoft. OpenAI API token and Ollama are required to run the experiments. `flashgpt3/cache/default.json` and `flashgpt3/cache/toi.json` are cache files for queries and TOIs, respectively. Delete `flashgpt3/cache/default.json` to obtain new query results. Delete `flashgpt3/cache/toi.json` and set NSTLearning = true to obtain new NSTs.
 
 ## Run the Experiments
 
